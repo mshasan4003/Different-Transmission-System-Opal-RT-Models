@@ -1,4 +1,4 @@
-IEEE 9-bus, 14-bus, 39-bus, and 118-bus Opal-RT Model.
+IEEE 9-bus, 39-bus, and 118-bus Opal-RT Model.
 
 Please cite the following papers:
 
